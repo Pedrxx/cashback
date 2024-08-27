@@ -69,10 +69,3 @@ Cada nível de fidelidade possui diferentes regras de cashback, variando conform
    - **Descrição:** Verifica o cálculo do cashback para clientes com grau de fidelidade Ouro, em compras acima de R$ 500,00.
    - **Expectativa:** 15% do valor da compra + 10% de bônus.
 
-## Como Executar os Testes
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/usuario/repo.git
-   cd repo
